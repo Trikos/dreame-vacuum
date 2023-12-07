@@ -534,20 +534,20 @@
       }
     },
     "vacuum_set_dnd": {
-      "name": "Set DnD",
-      "description": "Enable/disable DnD functionality and/or setting its start and end time.",
+      "name": "Imposta DnD",
+      "description": "Abilita/disabilita la funzione DnD e/o imposta l'orario di inizio e fine"
       "fields": {
         "dnd_enabled": {
-          "name": "DnD Enabled",
-          "description": "Enable or disable DnD feature."
+          "name": "DnD Abilitato",
+          "description": "Abilita o disabilita la funzione DnD."
         },
         "dnd_start": {
-          "name": "DnD Start",
-          "description": "Start time of DnD feature."
+          "name": "Avvio DnD",
+          "description": "Orario d'inizio della funzione DnD."
         },
         "dnd_end": {
-          "name": "Dnd End",
-          "description": "End time of DnD feature."
+          "name": "Fine Dnd",
+          "description": "Orario di fine della funzione DnD."
         }
       }
     },
